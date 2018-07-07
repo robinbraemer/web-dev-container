@@ -19,4 +19,8 @@ Login to SSH:
 user: root
 password: root
 
+
+# This is a mix between
+https://github.com/arvindr226/alpine-ssh and https://github.com/TrafeX/docker-php-nginx/
+
 brilliant right?
